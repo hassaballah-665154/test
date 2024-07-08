@@ -1,2 +1,3 @@
 a=int(input("enter your age"))
-print("your age is",a)
+b=int(input("enter your age"))
+print("yours age is",a,b)
